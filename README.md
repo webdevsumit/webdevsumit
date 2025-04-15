@@ -22,7 +22,7 @@
 ---
 
 ### 📬 Connect With Me
-🌐 **Website:** [bitwellband.com](https://bitwellband.com)  
+🌐 **Website:** [bitwell.tech](https://bitwell.tech)  
 📧 **Email:** [sumitdhakad2232@gmail.com](mailto:sumitdhakad2232@gmail.com)  
 📄 **Resume:** [View Here](https://drive.google.com/file/d/1LZcQBP9yeyOAOrHH-6UNnAkKt5g_BBWl/view?usp=sharing)  
 
