@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-🔹 **Founder @ [Bitwell Tech Pvt. Ltd.](https://bitwellband.com)** – Creating cutting-edge wearable health-tech for seamless well-being monitoring.  
+🔹 **Founder @ [Bitwell Tech Pvt. Ltd.](https://bitwell.tech)** – Creating cutting-edge wearable health-tech for seamless well-being monitoring.  
 
 💡 **Tech & Health Innovator** – I thrive at the intersection of technology and healthcare, building solutions that make a real impact.  
 
